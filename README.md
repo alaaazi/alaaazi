@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaazi&label=Profile%20views&color=0e75b6&style=flat" alt="alaaazi" /> </p>
 
-- 🌱 I’m currently learning **Python , React , Scss**
+- 🌱 I’m currently learning **Python , React **
 
 - 👨‍💻 All of my projects are available at [https://alaaazi.github.io/portfolio/](https://alaaazi.github.io/portfolio/)
 
